@@ -1,37 +1,37 @@
 export const headersTransactionHistory = [
   {
-    title: 'No',
+    text: 'No',
     align: 'center',
-    key: 'no'
+    value: 'no'
   },
   {
-    title: 'Tanggal',
+    text: 'Tanggal',
     align: 'center',
-    key: 'date'
+    value: 'date'
   },
   {
-    title: 'Nomor Rekening',
+    text: 'Nomor Rekening',
     align: 'end',
-    key: 'accountNumber'
+    value: 'accountNumber'
   },
   {
-    title: 'Biaya Admin',
+    text: 'Biaya Admin',
     align: 'end',
-    key: 'adminFee'
+    value: 'adminFee'
   },
   {
-    title: 'Total',
+    text: 'Total',
     align: 'end',
-    key: 'totalAmount'
+    value: 'totalAmount'
   },
   {
-    title: 'Status',
+    text: 'Status',
     align: 'center',
-    key: 'status'
+    value: 'status'
   },
   {
-    title: 'Action',
+    text: 'Action',
     align: 'center',
-    key: 'action'
+    value: 'action'
   }
 ];
